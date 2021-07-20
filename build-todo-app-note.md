@@ -19,4 +19,14 @@
 8. tells the compiler to do sth.
 9. files or folders **passed** in the array. 传递到数组中的文件或文件夹
 10. We can now install the dependencies to enable TypeScript in the project. 现在我们可以在项目中安装能够使用 ts 的依赖
+11. **Either** locally in the project **or** globally in our machine.  Either...or...
+12. I will go for the latter **based on personal preference**, but you can **stick with** the local way if you want too. 基于个人喜好，我会选择后者(**go for the latter**)，但如果你也愿意的话，你也可以坚持当地的方式。
+13. help the TypeScript compiler understand the packages
+14. `concurrently` will help compile the TypeScript code, keep watching for changes, and also start the server **simultaneously**. 
+15. we can now launch the server 现在可以启动服务器了
+16. in that regard
+17. you can let TypeScript **infer** it for you.
+18. type the values explicitly. 显式键入这些值
+
+
 
