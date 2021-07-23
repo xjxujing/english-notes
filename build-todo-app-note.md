@@ -63,5 +63,39 @@ How to Build a Todo App with React, TypeScript, NodeJS, and MongoDB
 3. I used VUE before.
 4. Sorry for the inconvenience.
 5. Please feel free to connect now. 请随时联系。
-6. I wanted to reach out to you to check if you received an invite from the Atlassian and you named your profile name as Jessy Xu?
+6. I wanted to reach out to you to check if you received an invite from the Atlassian and you named your profile name as Jessy Xu? 
+
+
+
+
+
+## 2021.07.23
+
+1. gameplay trailer 游戏预告片
+
+2. Refinement  **n.**精炼；提炼；优雅；提纯
+
+3. Retrospective 回顾性；回溯性；怀旧的
+
+4. take into account
+
+5. just in case 以防万一；作为准备
+
+6. I did it now as well
+
+7. warnings by message type over time,    warnings by error code
+
+8. go about **na.**走来走去；着手(工作)；(谣言等)流传；【航】掉转船头
+
+9. Suffix 后
+
+10. I am familiar with the business architecture in the familiarizing phase of code
+
+11. Not yet 
+
+12. one more time 
+
+13. orientation **n.**方向；定向；目标；态度
+
+14. acceptance criteria **un.**验收准则；接收判据；验收标准
 
