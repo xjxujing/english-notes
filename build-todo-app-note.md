@@ -51,3 +51,17 @@ How to Build a Todo App with React, TypeScript, NodeJS, and MongoDB
 6. tangram lumberjack 七巧板伐木工人
 7. Unified Configuration Reader 统一配置
 8. Resident Fare 居民票价
+
+
+
+
+
+## 2021.07.22
+
+1. You are receiving this courtesy email at the account [jxu52@trip.com](mailto:jxu52@trip.com) because you are an attendee of this event.
+2. server method elapsed time 服务器方法经过时间
+3. I used VUE before.
+4. Sorry for the inconvenience.
+5. Please feel free to connect now. 请随时联系。
+6. I wanted to reach out to you to check if you received an invite from the Atlassian and you named your profile name as Jessy Xu?
+
