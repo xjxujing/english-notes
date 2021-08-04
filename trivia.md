@@ -40,7 +40,52 @@ try to figure out code running process
 
 The **quilt** is a little short 棉被
 
-
-
 Code running process 代码运行过程
+
+
+
+## 20120730 
+
+1. I have learned the Content Pages’ key process by reading documents and debugging,
+
+and finding where the code was running in Origami
+
+2. learn some basic usage like TS generic
+3. 
+
+read commit rule and do code review,
+
+I see the data used by running code and find data is retrieved from Icarus service in FE Server.
+
+
+
+
+
+To improve
+
+
+
+You said that in the previous meeting
+
+I took the ticket
+
+
+
+
+
+
+
+I have created PR for that ticket
+
+Thanks to my colleages review my code, and did find some places that need to be changed.
+
+
+
+
+
+
+
+
+
+
 
